@@ -2,12 +2,12 @@ namespace Todo.Domain.Entities
 {
     public class TodoItem : Entity
     {
-        public TodoItem(string title, bool done, DateTime date, string user)
+        public TodoItem(string title, string user, DateTime date)
         {
             Title = title;
-            Done = false;
-            Date = date;
             User = user;
+            Date = date;
+            Done = false;
         }
 
         public string Title { get; private set; }

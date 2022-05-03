@@ -96,3 +96,7 @@ D:\Dev\Todo\Todo.Domain.Tests\obj\Debug\net6.0\refint\Todo.Domain.Tests.dll
 D:\Dev\Todo\Todo.Domain.Tests\obj\Debug\net6.0\Todo.Domain.Tests.pdb
 D:\Dev\Todo\Todo.Domain.Tests\obj\Debug\net6.0\Todo.Domain.Tests.genruntimeconfig.cache
 D:\Dev\Todo\Todo.Domain.Tests\obj\Debug\net6.0\ref\Todo.Domain.Tests.dll
+D:\Dev\Todo\Todo.Domain.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Dev\Todo\Todo.Domain.Tests\bin\Debug\net6.0\Flunt.dll
+D:\Dev\Todo\Todo.Domain.Tests\bin\Debug\net6.0\Todo.Domain.dll
+D:\Dev\Todo\Todo.Domain.Tests\bin\Debug\net6.0\Todo.Domain.pdb
